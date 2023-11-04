@@ -1,0 +1,9 @@
+Create Palindrome check.
+Required things: -
+· The user can check whether the entered word is palindrome or
+not.
+· The result should be displayed as: -
+
+Ø If it is palindrome then print “YES, IT IS PALINDROME”
+
+If it is not a palindrome then print “NO, IT IS NOT A PALINDROME”
