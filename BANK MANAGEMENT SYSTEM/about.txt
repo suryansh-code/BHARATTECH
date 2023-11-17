@@ -1,0 +1,10 @@
+Task 1: - Bank Management System.
+Required things for bank management system: -
+·   	Transfer Money to the Account
+·   	Creation of Account
+·   	Check Amount
+Added some more features 
+.   to show account details
+.   to delete account
+.   to check balance 
+.   search account
