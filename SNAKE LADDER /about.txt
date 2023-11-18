@@ -1,0 +1,12 @@
+Task 2: - Snake Ladder game.
+
+Snakes and Ladder is the most common board game played. The rules of   the game are as follows: - 
+·   	The first person to reach 100 wins.
+·   	Each player gets only one chance in a single traversing.
+·   	Snakes decrease your points while the ladder increases them.
+              
+            	# Rules for this game: -
+·   	Two players can enter a single game.
+·   	Random values can be attained using dice to increase or decrease the value.
+·   	Points will be maintained using variables.
+·  	The game will end after any player attains 100 points.
